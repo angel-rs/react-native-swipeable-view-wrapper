@@ -1,0 +1,28 @@
+{
+  "name": "react-native-swipeable-view-wrapper",
+  "description": "A pure JS react native wrapper component to make your views support swipe gestures",
+  "author": "Angel Rodríguez <angelmanuelrs@gmail.com>",
+  "private": false,
+  "version": "0.1.2",
+  "main": "SwipeableView.js",
+  "keywords": [
+    "react-native-swipeable-view-wrapper",
+    "react-native",
+    "react",
+    "native",
+    "swipeable",
+    "view",
+    "wrapper",
+    "component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:angel-rs/react-native-swipeable-view-wrapper.git"
+  },
+  "dependencies": {
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "prop-types": "^15.6.2"
+  },
+  "license": "MIT"
+}
